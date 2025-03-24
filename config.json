@@ -26,8 +26,8 @@
     "resend.js"
   ],
   "eventDisabled": [],
-  "OWNER": "OWNER OF BOT",
-  "BOTNAME": "BOTNAME HERE",
+  "OWNER": "zach",
+  "BOTNAME": "CHATBOT BETA",
   "PREFIX": "?",
   "ADMINBOT": [
     "UID HERE ADMIN",
